@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adrita Buragohain
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...
 
